@@ -51,3 +51,27 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+---
+
+<h3 align="center">
+  made with great affection by 💚💻🖥💚 Brunno Sena
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brunnosena">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-/brunnosena-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/brunnosena">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-/brunnosena-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+    <a href="https://www.twitter.com/brunnosena">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-/brunnosena-1778F2?style=flat&logoColor=white&logo=twitter">
+  </a>
+  <a href="https://www.instagram.com/brunnosena/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@brunnosena-833AB4?style=flat&logoColor=white&logo=instagram">
+  </a>
+</p>
+
+
